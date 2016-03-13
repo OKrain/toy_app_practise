@@ -1,3 +1,5 @@
+{<img src="https://codeship.com/projects/910aa800-cb4e-0133-7ab8-66ebdb7022a4/status?branch=master" alt="Status?branch=master" />}[https://codeship.com/projects/139998]
+{<img src="https://coveralls.io/repos/github/OKrain/toy_app_practise/badge.svg?branch=master" alt="Coverage Status" />}[https://coveralls.io/github/OKrain/toy_app_practise?branch=master]
 == README
 
 This README would normally document whatever steps are necessary to get the
